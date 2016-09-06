@@ -1,0 +1,5 @@
+<application>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="5" />
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Sources" />
+    <option name="defaultScopeName" value="Sources" />
+    <option name="SEARCH_SCOPE" value="Sources" />
+  </component>
+</application>
