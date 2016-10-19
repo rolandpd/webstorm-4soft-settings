@@ -4,6 +4,7 @@
       <configuration>
         <option name="apiUrl" value="https://192.168.178.21:2376" />
         <option name="certificatesPath" value="C:\Users\roland\.docker\machine\machines\default" />
+        <option name="machine" value="default" />
       </configuration>
     </remote-server>
   </component>
