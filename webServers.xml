@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd9eb923-0b31-4fd0-9cbd-1d346cf0a9d9" name="aigina.4soft.de" url="http://aigina.4soft.de:8080">
+        <fileTransfer host="aigina.4soft.de" port="22" rootFolder="/var/lib/tomcat7/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
