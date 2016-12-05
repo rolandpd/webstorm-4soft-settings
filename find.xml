@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Sources" />
-    <option name="defaultScopeName" value="Sources" />
+    <option name="customScope" value="Docs" />
+    <option name="defaultScopeName" value="Docs" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Sources" />
+    <option name="SEARCH_SCOPE" value="Docs" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
