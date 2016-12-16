@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a575216c-9e0a-412e-9295-bc50fb8e5086" name="ikarios:8080" url="http://ikarios.4soft.de:8080">
+        <fileTransfer host="ikarios.4soft.de" port="6022" rootFolder="/Program Files/Apache Software Foundation/Tomcat 8.0/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="6022" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
