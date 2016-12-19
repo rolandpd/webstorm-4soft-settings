@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gyros" type="Markdown" />
       <mapping pattern="docker" type="Native" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="mnu" type="PLAIN_TEXT" />
