@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cd9eb923-0b31-4fd0-9cbd-1d346cf0a9d9" name="aigina.4soft.de" url="http://aigina.4soft.de:8080">
+      <webServer id="cd9eb923-0b31-4fd0-9cbd-1d346cf0a9d9" name="aigina:8080" url="http://aigina.4soft.de:8080">
         <fileTransfer host="aigina.4soft.de" port="22" rootFolder="/var/lib/tomcat7/webapps" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -11,6 +11,14 @@
       </webServer>
       <webServer id="a575216c-9e0a-412e-9295-bc50fb8e5086" name="ikarios:8080" url="http://ikarios.4soft.de:8080">
         <fileTransfer host="ikarios.4soft.de" port="6022" rootFolder="/Program Files/Apache Software Foundation/Tomcat 8.0/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="6022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ec20195e-aa6e-4a72-b663-2cf1c1064727" name="paris:8085" url="http://paris.4soft.de:8085">
+        <fileTransfer host="paris.4soft.de" port="6022" rootFolder="/DPPT/ClientDev" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
