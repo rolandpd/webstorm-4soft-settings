@@ -5,6 +5,7 @@
       <mapping pattern="schokoriegel" type="Markdown" />
       <mapping pattern="docker" type="Native" />
       <mapping ext="mp4" type="Native" />
+      <mapping pattern="tschelo_kebab" type="PLAIN_TEXT" />
       <mapping ext="mnu" type="PLAIN_TEXT" />
       <mapping ext="mtpl" type="PLAIN_TEXT" />
     </extensionMap>
