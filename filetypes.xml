@@ -9,6 +9,7 @@
       <mapping pattern="00_aetherische_wasser" type="PLAIN_TEXT" />
       <mapping ext="mnu" type="PLAIN_TEXT" />
       <mapping ext="mtpl" type="PLAIN_TEXT" />
+      <mapping ext="de" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
