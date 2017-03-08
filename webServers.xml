@@ -25,6 +25,14 @@
           <option name="port" value="6022" />
         </fileTransfer>
       </webServer>
+      <webServer id="8cbf95fc-03fc-485e-bdb5-ea324ebbc76d" name="aigina:8083" url="http://aigina.4soft.de:8083">
+        <fileTransfer host="aigina.4soft.de" port="22" rootFolder="/home/cplace/8083/software/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
