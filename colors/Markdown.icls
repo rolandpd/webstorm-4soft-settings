@@ -3,13 +3,13 @@
     <property name="created">2016-12-27T14:04:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-13T17:34:22</property>
+    <property name="modified">2017-03-14T09:22:33</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="MARKDOWN_HEADER_LEVEL_1">
       <value>
