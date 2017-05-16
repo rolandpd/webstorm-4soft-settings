@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="59d5cb1c-d70a-4fb1-9c9a-168216ad9a74" name="aigina:8080-DEV" url="http://aigina.4soft.de:8080">
+        <fileTransfer host="aigina.4soft.de" port="22" rootFolder="/var/lib/tomcat7/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
